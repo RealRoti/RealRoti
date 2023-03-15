@@ -13,4 +13,4 @@
 
 Simply Roti.
 
-General tech entusiast, the average github user with 3 damned public repo and tons of other private ones. Applied in dyi space solutions helping my fellow mates at  <a href="https://github.com/spaceora"> ORA Space </a> rn. Cybersecurity serial follower, sometimes i build websites, setup databases or create simple android apps. But don't call me a developer. Or rather, just don't call me.
+General tech entusiast, the average github user with a few damned public repo and tons of other private ones. Applied in dyi space solutions helping my fellow mates at  <a href="https://github.com/spaceora"> ORA Space </a> rn. Cybersecurity serial follower, sometimes i build websites, setup databases or create simple android apps. But don't call me a developer. Or rather, just don't call me.
