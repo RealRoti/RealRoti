@@ -10,7 +10,3 @@
 <!--  <a href="https://github.com/DenverCoder1/Simple-View-Counter">
     <img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc"/></a> -->
 </p>
-
-Simply Roti.
-
-General tech entusiast, the average github user with a few damned public repo and tons of other private ones. Applied in diy rocketry solutions. Cybersecurity serial follower. I used to build websites, setup databases and create simple android apps. But don't call me a developer. Or rather, just don't call me.
